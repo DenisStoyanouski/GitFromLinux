@@ -1,0 +1,2 @@
+Hello people
+now we create file on linux
