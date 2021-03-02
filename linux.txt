@@ -1,2 +1,4 @@
 Hello people
 now we create file on linux
+	git checkout -b <name> // create new branch and checkout to it;
+	
