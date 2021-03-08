@@ -10,5 +10,6 @@ Stashing - is short time storage for changing without add and commit;
 	git stash apply	//bring them back and leave in stash;
 Merge - 
 	git merge fix// 
+	git branch -d fix // delete branch fix;
  
 	
