@@ -11,5 +11,8 @@ Stashing - is short time storage for changing without add and commit;
 Merge - 
 	git merge fix// 
 	git branch -d fix // delete branch fix;
- 
+Reflog- 
+	(cat .git/logs/HEAD);
+	git reflog// all places of HEAD (story of HEAD);
+	git reflog --date=iso // + date in format iso; 
 	
