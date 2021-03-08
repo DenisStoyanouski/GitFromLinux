@@ -1,2 +1,4 @@
 Hello people
 now we create file on linux
+	git show master // show lsta commit in master;
+	git show HEAD~ //show commit one step back (~~two, ~~~three and far);
