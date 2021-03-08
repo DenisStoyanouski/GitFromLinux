@@ -1,4 +1,10 @@
 Hello people
 now we create file on linux
 	git checkout -b <name> // create new branch and checkout to it;
-	
+Stashing - is short time storage for changing without add and commit; 
+	git stash save "to master"// stashing changings in fx;
+	git stash list //show list of stash
+	git stash pop //bring them back and remove from stash;
+	git stash apply	//bring them back and leave in stash;
+
+
