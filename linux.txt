@@ -8,3 +8,7 @@ Stashing - is short time storage for changing without add and commit;
 	git stash list //show list of stash
 	git stash pop //bring them back and remove from stash;
 	git stash apply	//bring them back and leave in stash;
+Merge - 
+	git merge fix// 
+ 
+	
